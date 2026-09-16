@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @rorisangIsCoded
-- 👀 I’m interested in programing and security
-- 🌱 I’m currently learning how to code faster with the use of my fav three programming languages
-- 💞️ I’m looking to collaborate on future projects that might change the world one day
-- 📫 Email me for collaborations via email @rorisangmosa3@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can keep a secret
+Howzit, I'm Rorisang.
+class Me:
+    role
+ = "Software Developer → 
+ Data Analyst"
+    mindset = "Curious"
+    favourite_question = "What happened?"
+    
+    skills = [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Data Analysis",
+        "Power BI",
+        "Software Development"
+    ]
 
-<!---
-rorisangIsCoded/rorisangIsCoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    def investigate(self, data):
+        return ["What happened?", "Why?", "What happens next?"]
